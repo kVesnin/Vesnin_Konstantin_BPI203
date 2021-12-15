@@ -1,0 +1,12 @@
+﻿  Broker.cpp
+  ConsoleWriter.cpp
+  Man.cpp
+  Multithreading.cpp
+  Smoker.cpp
+  SmokerMatches.cpp
+  SmokerPaper.cpp
+  SmokerTobacco.cpp
+  Staff.cpp
+  Generating Code...
+C:\Users\student\source\repos\multithreading\multithreading\Broker.cpp(30): warning C4715: 'Broker::findNeededStaff': not all control paths return a value
+  multithreading.vcxproj -> C:\Users\student\source\repos\multithreading\Debug\multithreading.exe
