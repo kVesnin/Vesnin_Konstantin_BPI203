@@ -1,0 +1,14 @@
+﻿  BinarySort.cpp
+  Circle.cpp
+  Container.cpp
+  Rectangle.cpp
+  Shape.cpp
+  ShapesProperties.cpp
+  Task1C.cpp
+C:\Users\student\source\repos\Task1C\Task1C\Task1C.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Triangle.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Task1C.vcxproj -> C:\Users\student\source\repos\Task1C\Release\Task1C.exe
